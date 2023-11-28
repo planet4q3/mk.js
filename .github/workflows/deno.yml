@@ -1,0 +1,4 @@
+git clone git@github.com:mgechev/mk.js
+cd mk.js/server
+npm install
+node server.js
